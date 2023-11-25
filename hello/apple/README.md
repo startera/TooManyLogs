@@ -1,5 +1,5 @@
 # Challenge Description 
-## To read this again, please use the command "cat README" while in the challenge folder
+## To read this again, please use the command "cat README" while in the challenge folder, or open the README file in the same folder
 
             ~~ OH NO! TOO MANY LOGS ~~
 
