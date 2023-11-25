@@ -3,7 +3,8 @@
 
 This challenge is named `apple`, and is located within module `hello`.
 
-When users start this challenge, their environment will have:
+When users start this challenge, their environment will have: 
+testsstt
 - `/flag`
 - `/challenge/apple`
 
