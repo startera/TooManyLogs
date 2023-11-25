@@ -1,6 +1,4 @@
 name: Main Challenge
 challenges:
   - id: apple
-    name: Apple
-  - id: banana
-    name: Banana
+    name: Start Here! 
