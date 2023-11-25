@@ -4,6 +4,6 @@ type: example
 award:
   emoji: 😀
 modules:
-  - id: hello
+  - id: MainChallenge
   - id: world
-  - id: Main Challenge
+
